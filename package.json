@@ -1,0 +1,37 @@
+{
+   "name":"iobroker.test",
+   "version":"1.0.0",
+   "description":"Testadaper für Iobroker",
+   "author":{
+      "name":"Hufnagl Oliver",
+      "email":"mail@dmxface.at"
+   },
+   "homepage":"https://github.com/Snigga/iobroker.test",
+   "license":"MIT",
+   "keywords":[
+      "ioBroker",
+      "dmxface",
+      "DMXfaceXP",
+      "Media controller",
+      "Smart Home",
+      "home automation"
+   ],
+   "repository":{
+      "type":"git",
+      "url":"https://github.com/ Snigga/iobroker.test"
+   },
+   "dependencies":{
+      "@iobroker/adapter-core":"^1.0.3"
+   },
+   "devDependencies":{
+
+   },
+   "main":"main.js",
+   "scripts":{
+
+   },
+   "bugs":{
+      "url":"https://github.com/ Snigga/iobroker.test/issues"
+   },
+   "readmeFilename":"README.md"
+}
